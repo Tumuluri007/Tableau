@@ -1,0 +1,1 @@
+Visualized Airbnb Excel Dataset from 2016 & 2017 to create dashboards for Airbnb's Average Price per Zipcode, Average Price Per Bedroom, Revenue Sales Per Month in the year 2016 lastly Number of Bedrooms Available using "Distinct COUNT ID".
